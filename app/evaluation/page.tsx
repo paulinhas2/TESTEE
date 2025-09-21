@@ -58,7 +58,7 @@ export default function EvaluationPage() {
   }, [])
 
   const handleCheckout = () => {
-    window.open("https://whatscheckout.netlify.app/", "_blank")
+    window.open("https://pay.cakto.com.br/pg3cspr_487909", "_blank")
   }
 
   return (
